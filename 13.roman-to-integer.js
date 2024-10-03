@@ -12,18 +12,6 @@
 var romanToInt = function (s) {
   console.log(s);
   let num = 0;
-  // IV = 4
-  // VI = 6 VII, VIII, IX, X, XI, XII, XIII, XIV
-  // I, II, III, IV, V
-
-  // IC = 499
-  // I = 1
-  // V = 5
-  // X = 10
-  // L = 50
-  // C = 100
-  // D = 500
-  // M = 1000
 
   const converter = {
     NaN: 0,
